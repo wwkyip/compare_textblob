@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Compare two text inputs
+Compare two text inputs and plot wordcloud
 """
 
 import pandas as pd
